@@ -1,0 +1,6 @@
+id : the id for each question pair(Numeric)
+qid1 : the id for question 1 in the pair(Numeric)
+qid2 : the id for question 2 in the pair(Numeric)
+question1 : the full text for question1(String)
+question2 : the full text for question2(String)
+is_duplicate : yes(1) ; no(0) (Numeric)  - TARGET LABEL
